@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/HUM01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/HUM01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/HUM01
+summary: Humidity sensor based on HIH-5030/5031 chip. Analog output is ratiometric.
