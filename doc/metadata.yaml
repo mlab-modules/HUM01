@@ -8,6 +8,7 @@ images:
 - doc/img/HUM01A_QRcode.png
 - hw/cam_profi/board.png
 mark: 50
+status: 0
 tags:
 - humidity
 - humidity-sensor
